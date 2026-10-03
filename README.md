@@ -31,6 +31,9 @@ CodeVerse/
 ├── script.js
 └── README.md
 ```
+## 🌐 Live Demo
+
+https://codeverse-plum.vercel.app/
 
 ## 👨‍💻 Author
 
